@@ -8,16 +8,17 @@ conn = None
 subredditSettings = None
 logFile = 'repostLog.log'
 
-dbName = 'CHANGEME'
-dbUser = 'CHANGEME'
-dbHost = 'CHANGEME'
-dbPasswrd = 'CHANGEME'
+dbName = 'leddit'
+dbUser = 'sampapert'
+dbHost = 'samuel-MacBookPro'
+dbPasswrd = 'sam16700'
 
-clientID = 'CHANGEME'
-clientSecret = 'CHANGEME'
-passwrd = 'CHANGEME'
-userAgent = 'CHANGEME'
-usernm = 'CHANGEME'
+clientID = 'lTUJ_BuAEwJU_A'
+clientSecret = 'xt8Ii8OqsSxe3p9VjsOHasmLQHQ'
+passwrd = 'sam16700'
+userAgent = 'Repost MOd 1.0 by /u/jigglypuffdid911"
+...               "github.com/jpdne'
+usernm = 'repostmod'
 
 
 
